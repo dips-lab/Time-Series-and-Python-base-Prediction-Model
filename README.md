@@ -1,4 +1,4 @@
-# Unit 10—A Yen for the Future
+Yen for the Future
 
 ![Yen Photo](Images/unit-10-readme-photo.png)
 
@@ -89,10 +89,4 @@ Use the results of the linear regression analysis and modelling to answer the fo
 * Use the starter Jupyter Notebooks for the time series and regression analyses and host the notebooks on GitHub.
 
 * Include a markdown that summarizes your models and findings and include this report in your GitHub repo.
-
-* Submit the link to your GitHub project to Bootcampspot.
-
----
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
